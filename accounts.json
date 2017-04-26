@@ -1,0 +1,162 @@
+[
+    {
+        "balance": -9389,
+        "type": "checking",
+        "name": {
+            "last": "Hyatt",
+            "first": "Jim"
+        }
+    },
+    {
+        "balance": 5147,
+        "type": "checking",
+        "name": {
+            "last": "Janousek",
+            "first": "Liberty"
+        }
+    },
+    {
+        "balance": 6515,
+        "type": "checking",
+        "name": {
+            "last": "Rebelo",
+            "first": "Otto"
+        }
+    },
+    {
+        "balance": -7022,
+        "type": "checking",
+        "name": {
+            "last": "Fearn",
+            "first": "Jenelle"
+        }
+    },
+    {
+        "balance": 4414,
+        'type': "checking",
+        "name": {
+            "last": "Coldren",
+            "first": "Alissa"
+        }
+    },
+    {
+        "balance": -249,
+        "type": "savings",
+        "name": {
+            "last": "Rebelo",
+            "first": "Otto"
+        }
+    },
+    {
+        "balance": 336,
+        "type": "checking",
+        "name": {
+            "last": "Couvillion",
+            "first": "Loree"
+        }
+    },
+    {
+        "balance": -5605,
+        "type": "checking",
+        "name": {
+            "last": "Dancy",
+            "first": "Melissa"
+        }
+    },
+    {
+        "balance": 1945,
+        "type": "savings",
+        "name": {
+            "last": "Rebelo",
+            "first": "Otto"
+        }
+    },
+    {
+        "balance": 1696,
+        "type": "checking",
+        "name": {
+            "last": "Janousek",
+            "first": "Liberty"
+        }
+    },
+    {
+        "balance": -8559,
+        "type": "checking",
+        "name":
+            "last": "Peet",
+            "first": "Elinor"
+        }
+    },
+    {
+        "balance": 2298,
+        "type": "savings",
+        "name": {
+            "last": "Stead",
+            "first": "Levi"
+        }
+    },
+    {
+        "balance": 5793,
+        "type": "savings",
+        "name": {
+            "last": "Mulholland",
+            "first": "Duncan"
+        }
+    },
+    {
+        "balance": -2813,
+        "type": "savings",
+        "name": {
+            "last": "Sasso",
+            "first": "Maurice"
+        }
+    },
+    {
+        "balance": -4534,
+        "type": "checking",
+        "name": {
+            "last": "Villanova",
+            "first": "Pat"
+        }
+    },
+    {
+        "balance": -9398,
+        "type": "savings",
+        "name": {
+            "last": "Coldren",
+            "first": "Alissa"
+        }
+    },
+    {
+        "balance": 3141,
+        "type": "checking",
+        "name": {
+            "last": "East",
+            "first": "Hedy"
+        }
+    },
+    {
+        "balance": -5569,
+        "type": "savings",
+        "name": {
+            "last": "Cheeks",
+            "first": "Salvador"
+        }
+    },
+    {
+        "balance": 8153,
+        "type": "savings",
+        "name": {
+            "last": "Coldren",
+            "first": "Alissa"
+        }
+    },
+    {
+        "balance": 936
+        "type": "checking",
+        "name": {
+            "last": "Birchfield",
+            "first": "Roderick"
+        }
+    }
+]
