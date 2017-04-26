@@ -9,6 +9,9 @@ import pprint as pprint
 with open('accounts.json') as jsonfile:
 	accounts=[]
 	try:
+		# I have fixed the errors in the json file using regular expression as I wasn't sure if fixing the errors in json file was to be done programatically or manually.
+		# I have also fixed all the bugs in the provided code template
+		# The program reads from the json file, fixes errors and sorts the accounts based on the balance in descending order and prints the  wealthiest accounts in the bank in the format mentioned above
 		lines=jsonfile.read()
 		lines=lines.replace("\'",'"')
 		lines=re.sub(r'\":\n','\": {\n',lines)
